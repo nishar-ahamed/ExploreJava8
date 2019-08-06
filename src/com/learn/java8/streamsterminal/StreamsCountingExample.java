@@ -1,4 +1,4 @@
-package com.learn.java8.streamsterminals;
+package com.learn.java8.streamsterminal;
 
 
 import java.util.stream.Collectors;
